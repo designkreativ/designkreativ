@@ -1,6 +1,10 @@
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW80Nmd1anB5Yjk0bHE1ajl1MnphemRjdmV0Z2huY2xqZWVzMGN0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hdmB1JPp2qTZmj7AA4/giphy.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=designkreativ.designkreativ&"  />
 </div>
+
+###
+
+<h1 align="center">Greetings! 👋 Musa from Design Kreativ</h1>
 
 ###
 
@@ -24,21 +28,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=designkreativ.designkreativ&"  />
-</div>
+<h3 align="center">😀 About me</h3>
 
 ###
 
-<h1 align="center">Greetings! 👋 Musa from Design Kreativ</h1>
-
-###
-
-<h3 align="left">😀 About me</h3>
-
-###
-
-<p align="left">A UI UX and Frontend Dev experienced in creative designing and producing digital products.</p>
+<p align="center">A UI UX and Frontend Dev experienced in creative designing and producing digital products.</p>
 
 ###
 
