@@ -86,8 +86,8 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=designkreativ&theme=github-dark&hide_title=false&hide_border=true&radius=16&area=true&line=718ca1&area_color=3b4954&title_color=3f7094&custom_title=Activity&color=3f7094" height="310" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=designkreativ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=city_lights&hide_border=true&order=2" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=designkreativ&locale=en&mode=daily&theme=city_lights&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=designkreativ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=city_lights&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=designkreativ&locale=en&mode=daily&theme=city_lights&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
