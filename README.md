@@ -28,14 +28,6 @@
 
 ###
 
-<h3 align="center">😀 About me</h3>
-
-###
-
-<p align="center">A UI UX and Frontend Dev experienced in creative designing and producing digital products.</p>
-
-###
-
 <h3 align="left">🛠 UI UX Design Tools</h3>
 
 ###
